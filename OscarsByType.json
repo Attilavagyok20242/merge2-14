@@ -1,0 +1,67 @@
+{
+    "OscarsByType": [
+        {
+            "m_ID": "1",
+            "title": "American Fiction",
+            "m_desc": "Nem mintha az American Fiction története önmagában nem lenne figyelemre méltó, mert nagyon is az. A már említett Monk szenved az egyetemen, ahol oktat, rendre komoly atrocitásokba kerül a hallgatókkal, az állóháború eredménye pedig az lesz, hogy kényszerszabadságolják. Mit lehet tenni, hősünk amúgy is egy irodalmi fesztiválra készült, amelybe az elbocsátása miatt így már teljes elánnal vetheti bele magát. Vagyis inkább vethetné, mert amint a bevezetőben említettük, Monk nem túl sikeres író, a kerekasztalos beszélgetésén is jelen van vagy hat olvasó.",
+            "pic": "pics\/AmF.jpg",
+            "Mt_description": "A film, magyarul mozgókép, képekből álló sorozat, amely a vásznon olyan gyorsan változik, hogy azt az illúziót kelti, mintha mozogna. A filmet egyszerre tekintjük művészetnek és iparágnak."
+        },
+        {
+            "m_ID": "2",
+            "title": "Egy zuhanás anatómiája",
+            "m_desc": "A sikeres német írónő francia férjével és látássérült gyerekükkel élnek a francia Alpok egyik kis falujában. A férfi váratlan halála után nem egyértelmű, hogy baleset, öngyilkosság vagy gyilkosság történt. Sandra ezért a rendkívül megterhelő nyomozás és tárgyalás középpontjába kerül.",
+            "pic": "pics\/ZuA.jpg",
+            "Mt_description": "A film, magyarul mozgókép, képekből álló sorozat, amely a vásznon olyan gyorsan változik, hogy azt az illúziót kelti, mintha mozogna. A filmet egyszerre tekintjük művészetnek és iparágnak."
+        },
+        {
+            "m_ID": "3",
+            "title": "Barbie",
+            "m_desc": "Van ám olyan világ, ahol minden csodálatos! Mindig süt a nap, lenn a parton mindig lágyan hullámzik a tenger, és szörfdeszkákon, a nyugágyakban meg a bulizósabb helyeken sokféle, de mindig gyönyörű strandoló gyűlik össze: Barbie (Margot Robbie) és Ken (Ryan Gosling) meg a többi Barbie és Ken.\r\nDe még legtökéletesebb, legrózsaszínebb, legszerelmesebb helyen is történhetnek bajok. Szerencsére Barbie nemcsak szép, hanem talpraesett is. Ha kell, még a valóságos világba is elmegy, hogy megvédje a maga különleges országát. És persze sosincs egyedül. Lehet, hogy Ken nem olyan éles eszű, vagy nem akkora vagány, mint ő, de van egy nagyon fontos tulajdonsága: mindig kiáll az ő Barbie-jáért, és sosem hagyja cserben.",
+            "pic": "pics\/Bar.jpg",
+            "Mt_description": "A film, magyarul mozgókép, képekből álló sorozat, amely a vásznon olyan gyorsan változik, hogy azt az illúziót kelti, mintha mozogna. A filmet egyszerre tekintjük művészetnek és iparágnak."
+        },
+        {
+            "m_ID": "4",
+            "title": "Téli szünet",
+            "m_desc": "Eljön a téli szünet, ám a jó nevű amerikai iskolából nem megy mindenki haza az ünnepekre. Tully, a jó eszű, ám különc és bajkeverő diák családi zűrök miatt. Mary, az iskola szakácsnője azért, mert egyetlen fiát gyászolja, aki nemrég esett el Vietnámban, és az iskola az utolsó hely, ahol együtt volt vele. Hunham, a történelemtanár pedig azért nem, mert az igazgató őt jelölte ki felvigyázónak az iskolában rekedtek mellé…",
+            "pic": "pics\/Teszu.jpg",
+            "Mt_description": "A film, magyarul mozgókép, képekből álló sorozat, amely a vásznon olyan gyorsan változik, hogy azt az illúziót kelti, mintha mozogna. A filmet egyszerre tekintjük művészetnek és iparágnak."
+        },
+        {
+            "m_ID": "5",
+            "title": "Maestro",
+            "m_desc": "Egy film Leonard és Felicia bonyolult szerelméről, attól kezdve, hogy 1946-ban egy partin megismerkedtek, két eljegyzésen át,három gyerekig és egy 25 éves házasságig.",
+            "pic": "pics\/Mae.jpg",
+            "Mt_description": "A film, magyarul mozgókép, képekből álló sorozat, amely a vásznon olyan gyorsan változik, hogy azt az illúziót kelti, mintha mozogna. A filmet egyszerre tekintjük művészetnek és iparágnak."
+        },
+        {
+            "m_ID": "6",
+            "title": "Oppenheimer",
+            "m_desc": "A film J. Robert Oppenheimer fizikusról szól, aki kollégáival - köztük a magyar származású Teller Edével és Szilárd Leóval - a Manhattan Terv vezetőjeként az első atomfegyver létrehozásáért felelős. A találmány a II. világháborúban megváltoztatta a történelem menetét, és a bombának köszönhető valószínűleg az is, hogy a 20. század második felében a két nagy szuperhatalom szembenállása, a hidegháború nem fajult valódi fegyveres konfliktussá.",
+            "pic": "pics\/Oppe.jpg",
+            "Mt_description": "A film, magyarul mozgókép, képekből álló sorozat, amely a vásznon olyan gyorsan változik, hogy azt az illúziót kelti, mintha mozogna. A filmet egyszerre tekintjük művészetnek és iparágnak."
+        },
+        {
+            "m_ID": "7",
+            "title": "Előző életek",
+            "m_desc": "Nora és Hae-sung gyerekkorukban a legjobb barátok voltak, de a kislány elköltözése szétválasztotta őket egymástól. Húsz évvel később online újra egymásra találnak, azonban felnőttként már egészen máshol tartanak az életükben. A lány sikeres írónő New Yorkban, komoly párkapcsolatban él, a fiú viszont csak sodródik Szöulban. Az interneten keresztül újra elkezdenek kötődni egymáshoz, a gyerekkori bajtársak között igaz és mély felnőtt barátság alakul ki. Hae-sung New York-i látogatása azonban mindkettejükben váratlan érzelmi lavinát indít el, és rákényszeríti őket, hogy végre szembenézzenek a valódi érzéseikkel.",
+            "pic": "pics\/Ele.jpg",
+            "Mt_description": "A film, magyarul mozgókép, képekből álló sorozat, amely a vásznon olyan gyorsan változik, hogy azt az illúziót kelti, mintha mozogna. A filmet egyszerre tekintjük művészetnek és iparágnak."
+        },
+        {
+            "m_ID": "8",
+            "title": "Szegény párák",
+            "m_desc": "Yorgos Lanthimos új filmje elképesztő történet Bella Baxter fantasztikus fejlődéséről. A fiatal nőt a zseniális elméjű és szokatlan módszereket alkalmazó tudós, Dr. Godwin Baxter hozza vissza az életbe. A férfi védelmét élvezve, Bella vágyik a tudásra. Szomjazza a világ dolgait, így elszökik Duncan Wedderburnnel, a dörzsölt és züllött ügyvéddel, s ketten együtt kontinenseken átívelő, szélsebes kalandra indulnak. Korának előítéleteitől szabadon, Bella roppant iramban fejlődik, hogy szándékának eleget téve kiálljon az egyenlőség és szabadság mellett.",
+            "pic": "pics\/Szegp.jpg",
+            "Mt_description": "A film, magyarul mozgókép, képekből álló sorozat, amely a vásznon olyan gyorsan változik, hogy azt az illúziót kelti, mintha mozogna. A filmet egyszerre tekintjük művészetnek és iparágnak."
+        },
+        {
+            "m_ID": "9",
+            "title": "Érdekvédelmi terület",
+            "m_desc": "A Martin Amis angol író 2014-es regényét lazán adaptáló film Auschwitz parancsnokának Rudolf Hössnek és feleségének, Hedwignek történetét meséli el, akik közvetlenül a koncentrációs tábor mellett alakították ki álomotthonukat. A foglyok állandó sikolyai, a puskalövések és a gázkamrák füstje kísérti paradicsomukat, de közönyük e borzalmakkal szemben félelmetes és baljós ellentétet teremt. A Szexi dög, a Születés és A felszín alatt rendezőjének új filmje szigorú és kihívásokkal teli.",
+            "pic": "pics\/Erdt.jpg",
+            "Mt_description": "A film, magyarul mozgókép, képekből álló sorozat, amely a vásznon olyan gyorsan változik, hogy azt az illúziót kelti, mintha mozogna. A filmet egyszerre tekintjük művészetnek és iparágnak."
+        }
+    ]
+}
